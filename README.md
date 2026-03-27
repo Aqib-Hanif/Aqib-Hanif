@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm **Aqib Hanif**, a Machine Learning Engineer from Pakis
 ---
 
 ## 🧠 About Me
-- 🎯 تخصص in **Machine Learning, Deep Learning & Data Science**
+- 🎯 Specialized in **Machine Learning, Deep Learning & Data Science**
 - 🤖 Building real-world AI systems using **Python & SQL**
 - 📈 Strong foundation in **Statistics & Data Analysis**
 - 🔍 Interested in **NLP, Predictive Modeling & AI systems**
@@ -42,6 +42,8 @@ Welcome to my GitHub! I'm **Aqib Hanif**, a Machine Learning Engineer from Pakis
 - 🔹 NLP (Natural Language Processing) Projects  
 - 🔹 Data Analysis on Real-world Datasets  
 - 🔹 SQL Data Exploration & Dashboards  
+
+👉 *Check my repositories below for detailed implementations.*
 
 ---
 
