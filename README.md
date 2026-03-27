@@ -38,12 +38,12 @@ Welcome to my GitHub! I'm **Aqib Hanif**, a Machine Learning Engineer from Pakis
 ---
 
 ## 🚀 Featured Projects
-- 🔹 Machine Learning Prediction Systems  
-- 🔹 NLP (Natural Language Processing) Projects  
-- 🔹 Data Analysis on Real-world Datasets  
-- 🔹 SQL Data Exploration & Dashboards  
+- 🔹 [Machine Learning Prediction Systems](https://github.com/Aqib-Hanif/PROJECT1)  
+- 🔹 [NLP Projects](https://github.com/Aqib-Hanif/PROJECT2)  
+- 🔹 [Data Analysis Projects](https://github.com/Aqib-Hanif/PROJECT3)  
+- 🔹 [SQL Data Exploration & Dashboards](https://github.com/Aqib-Hanif/PROJECT4)  
 
-👉 *Check my repositories below for detailed implementations.*
+> Replace `PROJECT1`, `PROJECT2`, etc. with your actual repository names.
 
 ---
 
@@ -67,7 +67,7 @@ Welcome to my GitHub! I'm **Aqib Hanif**, a Machine Learning Engineer from Pakis
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/aqibhanifofficail1/  
+- 💼 LinkedIn: [Aqib Hanif](https://www.linkedin.com/in/aqibhanifofficail1/)  
 - 📧 Email: aqibhanifofficail1@gmail.com  
 
 ---
