@@ -1,76 +1,62 @@
-# 👋 Hi, I'm Aqib Hanif
+# Hi, I'm Aqib Hanif 👋
 
-🚀 Machine Learning Engineer | Data Scientist | Python Developer  
-📊 Statistics Graduate | Passionate about AI, NLP & Data-driven solutions  
+💻 Computer Science Student passionate about Artificial Intelligence, Machine Learning, Biomedical Informatics, and Data-Driven Software Development.
 
----
-
-## 🔥 Aqib Hanif - GitHub Profile
-
-Welcome to my GitHub! I'm **Aqib Hanif**, a Machine Learning Engineer from Pakistan focused on building intelligent systems and solving real-world problems using data.
+🚀 I enjoy building practical projects that combine research, programming, and intelligent systems to solve real-world problems.
 
 ---
 
-## 🧠 About Me
-- 🎯 Specialized in **Machine Learning, Deep Learning & Data Science**
-- 🤖 Building real-world AI systems using **Python & SQL**
-- 📈 Strong foundation in **Statistics & Data Analysis**
-- 🔍 Interested in **NLP, Predictive Modeling & AI systems**
-- 🌍 Based in Pakistan  
+## 🔥 About Me
+
+- 🎓 Computer Science Student  
+- 🤖 Focused on AI, Machine Learning & Deep Learning  
+- 🧠 Interested in Brain Tumor Detection Research  
+- 📊 Skilled in Python, SQL, Data Analysis & Visualization  
+- 🌱 Currently learning advanced AI systems and real-world deployment  
+- 💡 Passionate about creating impactful healthcare technology projects  
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-### 🐍 Programming & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+**Languages & Tools**
 
-### 🤖 Machine Learning & AI
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+`Python` `SQL` `Jupyter Notebook` `Git` `GitHub` `VS Code`
 
-### 📊 Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+**Libraries & Frameworks**
 
----
+`TensorFlow` `Keras` `Scikit-Learn` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
-## 🚀 Featured Projects
-- 🔹 [Machine Learning Prediction Systems](https://github.com/Aqib-Hanif/PROJECT1)  
-- 🔹 [NLP Projects](https://github.com/Aqib-Hanif/PROJECT2)  
-- 🔹 [Data Analysis Projects](https://github.com/Aqib-Hanif/PROJECT3)  
-- 🔹 [SQL Data Exploration & Dashboards](https://github.com/Aqib-Hanif/PROJECT4)  
+**Domains**
 
-> Replace `PROJECT1`, `PROJECT2`, etc. with your actual repository names.
+`Machine Learning` `Deep Learning` `Computer Vision` `NLP` `Knowledge Graphs` `Biomedical AI`
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured Projects
 
-![Aqib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aqib-Hanif&show_icons=true&theme=radical)
-
----
-
-## 💻 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aqib-Hanif&layout=compact&theme=radical)
+- 🔹 [EEG Brain Tumor Detection – Hybrid CNN-BiLSTM](https://github.com/Aqib-Hanif/EEG-Brain-Tumor-Detection-Hybrid-CNN-BiLSTM)  
+- 🔹 [Brain Tumor Detection AI](https://github.com/Aqib-Hanif/brain-tumor-detection-ai)  
+- 🔹 [Brain Tumor Knowledge Graph](https://github.com/Aqib-Hanif/brain-tumor-knowledge-graph)  
 
 ---
 
-## 📌 Goals
-- 📈 Become a top Machine Learning Engineer  
-- 🤝 Contribute to open-source projects  
-- 🚀 Build impactful AI solutions  
+## 📈 Current Goals
+
+- Build advanced AI healthcare systems  
+- Improve deep learning model performance  
+- Explore data science and real-world analytics  
+- Contribute to open-source projects  
+- Grow as an AI Engineer & Researcher  
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [Aqib Hanif](https://www.linkedin.com/in/aqibhanifofficail1/)  
-- 📧 Email: aqibhanifofficail1@gmail.com  
+
+- GitHub: https://github.com/Aqib-Hanif
 
 ---
 
-## 🌟 SEO Keywords
-Aqib Hanif GitHub, Machine Learning Engineer Pakistan, Data Scientist, Python Developer, NLP Engineer, Data Analysis Expert
+## ⚡ Quote
+
+> "Learning never stops when curiosity leads the way."
