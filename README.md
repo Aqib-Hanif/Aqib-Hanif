@@ -1,39 +1,47 @@
-# Hi, I'm Aqib Hanif 👋
+<div align="center">
 
-💻 Computer Science Student passionate about Artificial Intelligence, Machine Learning, Biomedical Informatics, and Data-Driven Software Development.
+# 👋 Hi, I'm Aqib Hanif
 
-🚀 I enjoy building practical projects that combine research, programming, and intelligent systems to solve real-world problems.
+### 🎓 MS Data Science Student | 📊 Statistics Graduate | 🤖 AI & Machine Learning Enthusiast | 💡 Research Driven Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=MS+Data+Science+Student+at+IMSciences;Bachelor's+in+Statistics;Building+AI+Projects+for+Healthcare;Machine+Learning+%7C+Deep+Learning+%7C+Python;Always+Learning+Something+New" />
+
+</div>
 
 ---
 
-## 🔥 About Me
+## 🚀 About Me
 
-- 🎓 Computer Science Student  
-- 🤖 Focused on AI, Machine Learning & Deep Learning  
-- 🧠 Interested in Brain Tumor Detection Research  
-- 📊 Skilled in Python, SQL, Data Analysis & Visualization  
-- 🌱 Currently learning advanced AI systems and real-world deployment  
-- 💡 Passionate about creating impactful healthcare technology projects  
+🎓 Completed **Bachelor's in Statistics**  
+🏫 Currently pursuing **MS Data Science** from **IMSciences University**  
+📈 Strong academic background in statistics, probability, and data analysis  
+🤖 Passionate about Artificial Intelligence, Machine Learning & Deep Learning  
+🧠 Interested in Healthcare AI, Brain Tumor Detection & Smart Systems  
+💻 Love transforming ideas into practical projects using code  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools**
+### 💻 Languages & Tools
 
-`Python` `SQL` `Jupyter Notebook` `Git` `GitHub` `VS Code`
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
 
-**Libraries & Frameworks**
+### 📚 Libraries & Frameworks
 
 `TensorFlow` `Keras` `Scikit-Learn` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
-**Domains**
+### 📌 Core Areas
 
-`Machine Learning` `Deep Learning` `Computer Vision` `NLP` `Knowledge Graphs` `Biomedical AI`
+`Machine Learning` `Deep Learning` `Data Science` `Statistics` `Computer Vision` `NLP` `Knowledge Graphs`
 
 ---
 
-## 📌 Featured Projects
+## 🌟 Featured Projects
+
+### 🧠 AI & Healthcare Projects
 
 - 🔹 [EEG Brain Tumor Detection – Hybrid CNN-BiLSTM](https://github.com/Aqib-Hanif/EEG-Brain-Tumor-Detection-Hybrid-CNN-BiLSTM)  
 - 🔹 [Brain Tumor Detection AI](https://github.com/Aqib-Hanif/brain-tumor-detection-ai)  
@@ -41,22 +49,33 @@
 
 ---
 
-## 📈 Current Goals
+## 📈 GitHub Goals 2026
 
-- Build advanced AI healthcare systems  
-- Improve deep learning model performance  
-- Explore data science and real-world analytics  
-- Contribute to open-source projects  
-- Grow as an AI Engineer & Researcher  
+✅ Build impactful AI systems  
+✅ Publish high-quality data science projects  
+✅ Strengthen machine learning expertise  
+✅ Contribute to open source  
+✅ Grow as Data Scientist & AI Engineer  
+
+---
+
+## 📊 Academic Background
+
+| Degree | Field | Status |
+|-------|------|--------|
+| Bachelor's | Statistics | Completed |
+| Master's | Data Science | In Progress |
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Aqib-Hanif
+🌐 GitHub: [github.com/Aqib-Hanif](https://github.com/Aqib-Hanif)
 
 ---
 
-## ⚡ Quote
+<div align="center">
 
-> "Learning never stops when curiosity leads the way."
+### ⚡ “Data tells the story — intelligence turns it into impact.”
+
+</div>
