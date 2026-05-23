@@ -45,7 +45,9 @@
 
 - 🔹 [EEG Brain Tumor Detection – Hybrid CNN-BiLSTM](https://github.com/Aqib-Hanif/EEG-Brain-Tumor-Detection-Hybrid-CNN-BiLSTM)  
 - 🔹 [Brain Tumor Detection AI](https://github.com/Aqib-Hanif/brain-tumor-detection-ai)  
-- 🔹 [Brain Tumor Knowledge Graph](https://github.com/Aqib-Hanif/brain-tumor-knowledge-graph)  
+- 🔹 [Brain Tumor Knowledge Graph](https://github.com/Aqib-Hanif/brain-tumor-knowledge-graph)
+- 🔹 [EEG Seizure Prediction Using Deep Learning and Machine Learning](https://github.com/Aqib-Hanif/EEG-Seizure-Prediction)
+- 🔹 [EEG Brain Tumor Detection using Hybrid 1D-CNN–BiLSTM](https://github.com/Aqib-Hanif/EEG-Brain-Tumor-Detection-Hybrid-CNN-BiLSTM)
 
 ---
 
