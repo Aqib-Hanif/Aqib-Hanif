@@ -1,83 +1,127 @@
 <div align="center">
 
-# 👋 Hi, I'm Aqib Hanif
+# Aqib Hanif
 
-### 🎓 MS Data Science Student | 📊 Statistics Graduate | 🤖 AI & Machine Learning Enthusiast | 💡 Research Driven Developer
+### AI Researcher | MS Data Science @ IMSciences | Brain Tumor MRI Analysis | Radiomics | Explainable AI | Medical Imaging
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=MS+Data+Science+Student+at+IMSciences;Bachelor's+in+Statistics;Building+AI+Projects+for+Healthcare;Machine+Learning+%7C+Deep+Learning+%7C+Python;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Researcher+%7C+Medical+Imaging;MS+Data+Science+Researcher+at+IMSciences;Brain+Tumor+MRI+Analysis+and+Radiomics;Explainable+AI+and+Healthcare+AI;Statistics+Graduate+%7C+Python+Developer;Building+Trustworthy+AI+for+Healthcare" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 Completed **Bachelor's in Statistics**  
-🏫 Currently pursuing **MS Data Science** from **IMSciences University**  
-📈 Strong academic background in statistics, probability, and data analysis  
-🤖 Passionate about Artificial Intelligence, Machine Learning & Deep Learning  
-🧠 Interested in Healthcare AI, Brain Tumor Detection & Smart Systems  
-💻 Love transforming ideas into practical projects using code  
+I am an **MS Data Science researcher** at the **Institute of Management Sciences (IMSciences), Pakistan**, with a background in **Statistics** and a strong interest in developing reliable and interpretable Artificial Intelligence systems for healthcare.
+
+My research focuses on:
+
+* Brain Tumor MRI Analysis
+* Radiomics and Medical Imaging
+* Explainable Artificial Intelligence (XAI)
+* Machine Learning and Deep Learning
+* Statistical Learning
+* Healthcare AI
+* Biomedical Knowledge Graphs
 
 ---
 
-## 🛠️ Tech Stack
+## Current Research
 
-### 💻 Languages & Tools
+### Brain Tumor MRI Analysis and Radiomics
+
+Developing explainable and statistically reliable AI frameworks for brain tumor diagnosis using MRI-derived radiomic biomarkers and deep learning.
+
+### Healthcare Knowledge Graphs
+
+Building evidence-aware biomedical knowledge graphs that integrate diseases, genes, drugs, biomarkers, and clinical evidence.
+
+### Explainable Healthcare AI
+
+Investigating interpretable machine learning approaches that improve transparency and trust in medical decision-support systems.
+
+---
+
+## Technical Skills
+
+### Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 </p>
 
-### 📚 Libraries & Frameworks
+### Machine Learning & AI
 
-`TensorFlow` `Keras` `Scikit-Learn` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+`Scikit-Learn` `TensorFlow` `Keras` `XGBoost` `LightGBM`
 
-### 📌 Core Areas
+### Data Science
 
-`Machine Learning` `Deep Learning` `Data Science` `Statistics` `Computer Vision` `NLP` `Knowledge Graphs`
+`Pandas` `NumPy` `SciPy` `Matplotlib` `Seaborn`
 
----
+### Medical Imaging
 
-## 🌟 Featured Projects
+`OpenCV` `SimpleITK` `PyRadiomics`
 
-### 🧠 AI & Healthcare Projects
+### Research Areas
 
-- 🔹 [EEG Brain Tumor Detection – Hybrid CNN-BiLSTM](https://github.com/Aqib-Hanif/EEG-Brain-Tumor-Detection-Hybrid-CNN-BiLSTM)  
-- 🔹 [Brain Tumor Detection AI](https://github.com/Aqib-Hanif/brain-tumor-detection-ai)  
-- 🔹 [Brain Tumor Knowledge Graph](https://github.com/Aqib-Hanif/brain-tumor-knowledge-graph)
-- 🔹 [EEG Seizure Prediction Using Deep Learning and Machine Learning](https://github.com/Aqib-Hanif/EEG-Seizure-Prediction)
-- 🔹 [EEG Brain Tumor Detection using Hybrid 1D-CNN–BiLSTM](https://github.com/Aqib-Hanif/EEG-Brain-Tumor-Detection-Hybrid-CNN-BiLSTM)
-
----
-
-## 📈 GitHub Goals 2026
-
-✅ Build impactful AI systems  
-✅ Publish high-quality data science projects  
-✅ Strengthen machine learning expertise  
-✅ Contribute to open source  
-✅ Grow as Data Scientist & AI Engineer  
+`Artificial Intelligence`
+`Medical Imaging`
+`Brain Tumor Analysis`
+`Radiomics`
+`Explainable AI`
+`Healthcare AI`
+`Statistical Learning`
+`Knowledge Graphs`
 
 ---
 
-## 📊 Academic Background
+## Featured Research Projects
 
-| Degree | Field | Status |
-|-------|------|--------|
-| Bachelor's | Statistics | Completed |
-| Master's | Data Science | In Progress |
+### Medical AI
+
+* Brain Tumor MRI Analysis
+* Brain Tumor Knowledge Graph
+* NeuroKG Explorer
+* EEG Brain Tumor Detection (Hybrid CNN–BiLSTM)
+* EEG Seizure Prediction
+
+### Data Science
+
+* Aerospace Predictive Maintenance (NASA C-MAPSS)
+* Machine Learning Projects
+* Statistical Modeling Projects
 
 ---
 
-## 📫 Connect With Me
+## Academic Background
 
-🌐 GitHub: [github.com/Aqib-Hanif](https://github.com/Aqib-Hanif)
+| Degree | Discipline   | Status      |
+| ------ | ------------ | ----------- |
+| BS     | Statistics   | Completed   |
+| MS     | Data Science | In Progress |
+
+---
+
+## Academic Profiles
+
+* ORCID: https://orcid.org/0009-0009-4256-8706
+* ResearchGate: https://www.researchgate.net/profile/Aqib-Hanif
+* LinkedIn: https://www.linkedin.com/in/aqibhanifofficail1/
+* Portfolio: https://aqib-hanif.github.io/aqib-portfolio/
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Aqib-Hanif&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqib-Hanif&layout=compact&hide_border=true" />
+</p>
 
 ---
 
 <div align="center">
 
-### ⚡ “Data tells the story — intelligence turns it into impact.”
+### Advancing Trustworthy AI for Healthcare Through Statistical Rigor, Interpretability, and Reproducible Research
 
 </div>
