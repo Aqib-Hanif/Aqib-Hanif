@@ -2,47 +2,70 @@
 
 # Aqib Hanif
 
-### AI Researcher | MS Data Science @ IMSciences | Brain Tumor MRI Analysis | Radiomics | Explainable AI | Medical Imaging
+### AI Researcher • MS Data Science @ IMSciences • Medical Imaging • Brain Tumor MRI Analysis • Radiomics • Explainable AI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Researcher+%7C+Medical+Imaging;MS+Data+Science+Researcher+at+IMSciences;Brain+Tumor+MRI+Analysis+and+Radiomics;Explainable+AI+and+Healthcare+AI;Statistics+Graduate+%7C+Python+Developer;Building+Trustworthy+AI+for+Healthcare" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=AI+Researcher+and+Data+Scientist;Brain+Tumor+MRI+Analysis+and+Radiomics;Medical+Imaging+and+Healthcare+AI;Explainable+Artificial+Intelligence+(XAI);Statistics+Graduate+%7C+MS+Data+Science;Building+Trustworthy+AI+for+Healthcare" />
+
+<p align="center">
+<a href="https://orcid.org/0009-0009-4256-8706"><img src="https://img.shields.io/badge/ORCID-0009--0009--4256--8706-A6CE39?style=for-the-badge&logo=orcid"></a>
+<a href="https://www.researchgate.net/profile/Aqib-Hanif"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate"></a>
+<a href="https://www.linkedin.com/in/aqibhanifofficail1/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin"></a>
+<a href="https://aqib-hanif.github.io/aqib-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=githubpages"></a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+## Research Vision
 
-I am an **MS Data Science researcher** at the **Institute of Management Sciences (IMSciences), Pakistan**, with a background in **Statistics** and a strong interest in developing reliable and interpretable Artificial Intelligence systems for healthcare.
+I am an MS Data Science researcher at the Institute of Management Sciences (IMSciences), Pakistan, with a background in Statistics.
 
-My research focuses on:
+My research aims to develop reliable, interpretable, and clinically meaningful Artificial Intelligence systems for healthcare by combining:
+
+* Medical Imaging
+* Radiomics
+* Explainable AI
+* Statistical Learning
+* Biomedical Knowledge Representation
+* Healthcare Data Science
+
+Current emphasis is on Brain Tumor MRI analysis, biomarker discovery, and trustworthy AI for clinical decision support.
+
+---
+
+## Research Interests
 
 * Brain Tumor MRI Analysis
-* Radiomics and Medical Imaging
+* Radiomics and Quantitative Imaging
 * Explainable Artificial Intelligence (XAI)
-* Machine Learning and Deep Learning
-* Statistical Learning
+* Medical Image Analysis
+* Machine Learning
+* Deep Learning
 * Healthcare AI
-* Biomedical Knowledge Graphs
+* Bioinformatics
+* Statistical Learning
+* Knowledge Graphs
 
 ---
 
-## Current Research
+## Active Research Projects
 
-### Brain Tumor MRI Analysis and Radiomics
+### Brain Tumor MRI Analysis
 
-Developing explainable and statistically reliable AI frameworks for brain tumor diagnosis using MRI-derived radiomic biomarkers and deep learning.
+Developing explainable and statistically robust machine learning frameworks for brain tumor diagnosis using MRI-derived radiomic biomarkers and deep learning representations.
 
-### Healthcare Knowledge Graphs
+### Brain Tumor Knowledge Graph
 
-Building evidence-aware biomedical knowledge graphs that integrate diseases, genes, drugs, biomarkers, and clinical evidence.
+Building an evidence-aware biomedical knowledge graph integrating diseases, genes, drugs, biomarkers, and clinical evidence for interpretable AI applications.
 
-### Explainable Healthcare AI
+### Healthcare AI Reliability
 
-Investigating interpretable machine learning approaches that improve transparency and trust in medical decision-support systems.
+Investigating uncertainty quantification, feature stability, and statistical reliability in medical AI systems.
 
 ---
 
-## Technical Skills
+## Technical Expertise
 
 ### Programming
 
@@ -50,78 +73,83 @@ Investigating interpretable machine learning approaches that improve transparenc
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 </p>
 
-### Machine Learning & AI
+### Artificial Intelligence
 
-`Scikit-Learn` `TensorFlow` `Keras` `XGBoost` `LightGBM`
+`Machine Learning`
+`Deep Learning`
+`Computer Vision`
+`Natural Language Processing`
+`Knowledge Graphs`
+
+### Frameworks
+
+`TensorFlow`
+`Keras`
+`Scikit-Learn`
+`LightGBM`
+`XGBoost`
 
 ### Data Science
 
-`Pandas` `NumPy` `SciPy` `Matplotlib` `Seaborn`
+`Pandas`
+`NumPy`
+`SciPy`
+`Matplotlib`
+`Seaborn`
 
 ### Medical Imaging
 
-`OpenCV` `SimpleITK` `PyRadiomics`
-
-### Research Areas
-
-`Artificial Intelligence`
-`Medical Imaging`
-`Brain Tumor Analysis`
-`Radiomics`
-`Explainable AI`
-`Healthcare AI`
-`Statistical Learning`
-`Knowledge Graphs`
+`OpenCV`
+`SimpleITK`
+`PyRadiomics`
 
 ---
 
-## Featured Research Projects
+## Featured Repositories
 
-### Medical AI
-
-* Brain Tumor MRI Analysis
-* Brain Tumor Knowledge Graph
-* NeuroKG Explorer
-* EEG Brain Tumor Detection (Hybrid CNN–BiLSTM)
-* EEG Seizure Prediction
-
-### Data Science
-
-* Aerospace Predictive Maintenance (NASA C-MAPSS)
-* Machine Learning Projects
-* Statistical Modeling Projects
+| Project                          | Description                                                                             |
+| -------------------------------- | --------------------------------------------------------------------------------------- |
+| Brain Tumor Knowledge Graph      | Explainable biomedical knowledge graph integrating diseases, genes, drugs, and evidence |
+| NeuroKG Explorer                 | Ontology-driven biomedical knowledge graph for neurological disorders                   |
+| EEG Brain Tumor Detection        | Hybrid CNN–BiLSTM framework for EEG-based brain tumor detection                         |
+| Aerospace Predictive Maintenance | Uncertainty-aware Remaining Useful Life prediction using NASA C-MAPSS                   |
+| Portfolio Website                | Academic portfolio and research showcase                                                |
 
 ---
 
 ## Academic Background
 
-| Degree | Discipline   | Status      |
-| ------ | ------------ | ----------- |
-| BS     | Statistics   | Completed   |
-| MS     | Data Science | In Progress |
+| Degree | Field                      |
+| ------ | -------------------------- |
+| BS     | Statistics                 |
+| MS     | Data Science (In Progress) |
 
 ---
 
-## Academic Profiles
+## Research Profiles
 
-* ORCID: https://orcid.org/0009-0009-4256-8706
-* ResearchGate: https://www.researchgate.net/profile/Aqib-Hanif
-* LinkedIn: https://www.linkedin.com/in/aqibhanifofficail1/
-* Portfolio: https://aqib-hanif.github.io/aqib-portfolio/
+* ORCID: 0009-0009-4256-8706
+* ResearchGate
+* LinkedIn
+* GitHub Pages Portfolio
 
 ---
 
-## GitHub Statistics
+## GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aqib-Hanif&show_icons=true&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqib-Hanif&layout=compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aqib-Hanif&show_icons=true&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqib-Hanif&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aqib-Hanif&hide_border=true" />
 </p>
 
 ---
 
 <div align="center">
 
-### Advancing Trustworthy AI for Healthcare Through Statistical Rigor, Interpretability, and Reproducible Research
+### Advancing Trustworthy Artificial Intelligence for Healthcare Through Statistical Rigor, Interpretability, and Reproducible Research
 
 </div>
