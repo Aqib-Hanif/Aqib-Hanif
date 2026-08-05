@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Profile-222222?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
 </a>
 
-<a href="https://aqib-hanif.github.io/aqib-portfolio/">
+<a href="https://github.com/aqibhanifai/aqib-portfolio">
 <img src="https://img.shields.io/badge/Portfolio-Website-222222?style=for-the-badge&logo=githubpages&logoColor=FFFFFF">
 </a>
 
