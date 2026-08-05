@@ -159,7 +159,7 @@ Investigating uncertainty quantification, model interpretability, feature stabil
 * ORCID: https://orcid.org/0009-0009-4256-8706
 * ResearchGate: https://www.researchgate.net/profile/Aqib-Hanif
 * LinkedIn: https://www.linkedin.com/in/aqibhanifofficail1/
-* Portfolio: https://aqib-hanif.github.io/aqib-portfolio/
+* Portfolio: https://aqibhanifai.github.io/aqib-portfolio/
 
 ---
 
