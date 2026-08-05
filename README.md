@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/ResearchGate-Profile-222222?style=for-the-badge&logo=researchgate&logoColor=00CCBB">
 </a>
 
-<a href="https://www.linkedin.com/in/aqibhanifofficail1/">
+<a href="https://www.linkedin.com/in/aqibhanifai">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-222222?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
 </a>
 
