@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi, I'm Aqib Hanif 👋
@@ -30,7 +29,7 @@ alt="Typing SVG"
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Aqib-Hanif&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=aqibhanifai&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 
 </div>
 
@@ -40,11 +39,13 @@ alt="Typing SVG"
 
 I am a **Data Scientist and AI Researcher** currently pursuing an **MS in Data Science at the Institute of Management Sciences (IMSciences), Pakistan**, with an academic foundation in **Statistics**.
 
-My interests lie at the intersection of **data science, statistical learning, machine learning, artificial intelligence, and biomedical research**. I am particularly interested in developing computational systems that are not only accurate, but also **reliable, interpretable, statistically defensible, and reproducible**.
+My work lies at the intersection of **data science, statistical learning, machine learning, artificial intelligence, and biomedical research**. I am particularly interested in developing computational systems that are not only accurate, but also **reliable, interpretable, statistically rigorous, and reproducible**.
 
-My current work focuses strongly on **healthcare and biomedical AI**, including medical imaging, radiomics, explainable artificial intelligence, uncertainty-aware machine learning, and biomedical knowledge graphs.
+My current research interests are centered on **healthcare and biomedical AI**, including medical imaging, radiomics, explainable artificial intelligence, trustworthy machine learning, uncertainty quantification, and biomedical knowledge graphs.
 
-> **My research philosophy:** Strong AI should not only make predictions — it should provide evidence that those predictions can be trusted.
+I am passionate about transforming complex datasets into **meaningful insights, reliable predictive models, and evidence-driven solutions**.
+
+> **Research Philosophy:** Strong AI should not only make accurate predictions — it should also provide evidence that those predictions can be trusted.
 
 ---
 
@@ -79,9 +80,9 @@ My current work focuses strongly on **healthcare and biomedical AI**, including 
 
 ### 🧠 Brain Tumor MRI Analysis
 
-Developing **statistically reliable and explainable machine-learning frameworks** for brain tumor analysis using MRI-derived imaging features, radiomics, and deep learning.
+Developing **explainable and statistically reliable AI frameworks** for brain tumor analysis using MRI-derived imaging features, radiomic biomarkers, machine learning, and deep learning.
 
-**Research focus:**
+**Research Focus**
 
 `MRI Analysis` • `Radiomics` • `Feature Stability` • `Deep Learning` • `Explainability` • `Model Reliability`
 
@@ -89,9 +90,9 @@ Developing **statistically reliable and explainable machine-learning frameworks*
 
 ### 🕸️ Biomedical Knowledge Graphs
 
-Investigating biomedical knowledge representation by connecting heterogeneous clinical and biological information such as **diseases, genes, drugs, biomarkers, phenotypes, and scientific evidence**.
+Investigating biomedical knowledge representation and graph-based intelligence by integrating heterogeneous clinical and biological information such as **diseases, genes, drugs, biomarkers, phenotypes, and scientific evidence**.
 
-**Research focus:**
+**Research Focus**
 
 `Knowledge Graphs` • `Disease–Gene Relationships` • `Biomedical Data Integration` • `Graph Learning` • `Evidence-Aware AI`
 
@@ -99,9 +100,9 @@ Investigating biomedical knowledge representation by connecting heterogeneous cl
 
 ### 🛡️ Trustworthy Healthcare AI
 
-Studying methods for building healthcare AI systems that extend beyond predictive accuracy by incorporating rigorous reliability assessment.
+Investigating methods for building healthcare AI systems that move beyond predictive accuracy toward **reliability, transparency, uncertainty awareness, and reproducibility**.
 
-**Research focus:**
+**Research Focus**
 
 `Uncertainty Quantification` • `Calibration` • `Explainable AI` • `Robustness` • `Feature Stability` • `Reproducibility`
 
@@ -109,9 +110,9 @@ Studying methods for building healthcare AI systems that extend beyond predictiv
 
 ### 📊 Statistical Data Science
 
-Applying statistical foundations to machine-learning research and real-world analytical problems.
+Applying statistical foundations to machine-learning research, predictive modelling, data analysis, and rigorous experimental evaluation.
 
-**Research focus:**
+**Research Focus**
 
 `Statistical Learning` • `Sampling` • `Model Validation` • `Predictive Analytics` • `Experimental Evaluation`
 
@@ -123,7 +124,7 @@ Applying statistical foundations to machine-learning research and real-world ana
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,vscode&theme=dark">
 
 </p>
 
@@ -150,8 +151,8 @@ Applying statistical foundations to machine-learning research and real-world ana
 
 <p align="center">
 
-`Exploratory Data Analysis` • `Feature Engineering` • `Classification`  
-`Regression` • `Predictive Modelling` • `Model Evaluation`
+`Exploratory Data Analysis` • `Data Preprocessing` • `Feature Engineering`
+`Classification` • `Regression` • `Predictive Modelling` • `Model Evaluation`
 
 </p>
 
@@ -169,6 +170,12 @@ Applying statistical foundations to machine-learning research and real-world ana
 <img src="https://img.shields.io/badge/Computer%20Vision-0078D4?style=for-the-badge">
 <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge">
 <img src="https://img.shields.io/badge/Explainable%20AI-E34F26?style=for-the-badge">
+
+</p>
+
+<p align="center">
+
+`Neural Networks` • `CNNs` • `Computer Vision` • `Representation Learning` • `Explainable AI`
 
 </p>
 
@@ -199,34 +206,43 @@ Applying statistical foundations to machine-learning research and real-world ana
 
 </p>
 
+<p align="center">
+
+`Medical Image Processing` • `Radiomics` • `Biomedical Data` • `Knowledge Representation`
+
+</p>
+
 ---
 
 # 🚀 Featured Projects
 
 ## 🧠 Medical AI & Healthcare Data Science
 
-### Brain Tumor Knowledge Graph
-Biomedical knowledge representation framework connecting brain tumor diseases, genes, drugs, biomarkers, and clinical evidence.
+### 🧠 Brain Tumor Knowledge Graph
+
+Biomedical knowledge representation framework connecting **brain tumor diseases, genes, drugs, biomarkers, and clinical evidence**.
 
 `Biomedical AI` `Knowledge Graphs` `Graph Analytics`
 
 ---
 
-### NeuroKG Explorer
-Knowledge-driven framework for exploring neurological biomedical relationships and structured scientific evidence.
+### 🕸️ NeuroKG Explorer
+
+Knowledge-driven framework for exploring **neurological biomedical relationships and structured scientific evidence**.
 
 `Knowledge Graphs` `Biomedical Data` `Data Exploration`
 
 ---
 
-### Brain Tumor MRI Analysis
-Machine-learning and deep-learning workflows for MRI-based brain tumor analysis with emphasis on radiomics and trustworthy model evaluation.
+### 🩻 Brain Tumor MRI Analysis
 
-`MRI` `Radiomics` `Machine Learning` `XAI`
+Machine-learning and deep-learning workflows for MRI-based brain tumor analysis with emphasis on **radiomics, explainability, and trustworthy model evaluation**.
+
+`MRI` `Radiomics` `Machine Learning` `Deep Learning` `XAI`
 
 ---
 
-### EEG Brain Tumor Detection
+### 🧠 EEG Brain Tumor Detection
 
 Hybrid deep-learning approaches for neurological signal analysis and brain tumor-related classification.
 
@@ -234,7 +250,7 @@ Hybrid deep-learning approaches for neurological signal analysis and brain tumor
 
 ---
 
-### EEG Seizure Prediction
+### ⚡ EEG Seizure Prediction
 
 Data-driven modelling of EEG signals for seizure-related predictive analysis.
 
@@ -246,7 +262,7 @@ Data-driven modelling of EEG signals for seizure-related predictive analysis.
 
 ### ✈️ Aerospace Predictive Maintenance — NASA C-MAPSS
 
-Machine-learning analysis of turbofan engine degradation data for predictive maintenance and reliability modelling.
+Machine-learning analysis of turbofan engine degradation data for **predictive maintenance, remaining useful life analysis, and reliability modelling**.
 
 `Predictive Maintenance` `Machine Learning` `Reliability` `NASA C-MAPSS`
 
@@ -254,7 +270,7 @@ Machine-learning analysis of turbofan engine degradation data for predictive mai
 
 ### 📈 Statistical Learning Projects
 
-Application of statistical modelling and machine-learning methods to real-world analytical problems.
+Applications of statistical modelling and machine-learning methods to real-world analytical and predictive problems.
 
 `Statistics` `Machine Learning` `Predictive Analytics`
 
@@ -262,7 +278,7 @@ Application of statistical modelling and machine-learning methods to real-world 
 
 ### 🔍 Data Analytics & Visualization
 
-Exploratory data analysis, preprocessing, statistical investigation, visualization, and insight generation from structured datasets.
+Exploratory data analysis, data preprocessing, statistical investigation, visualization, and insight generation from structured datasets.
 
 `EDA` `Data Visualization` `Statistics` `Python`
 
@@ -270,32 +286,41 @@ Exploratory data analysis, preprocessing, statistical investigation, visualizati
 
 # 🎓 Education
 
-| Degree | Discipline | Institution | Status |
-|:---:|:---|:---|:---:|
+|   Degree  | Discipline   | Institution                                   |     Status     |
+| :-------: | :----------- | :-------------------------------------------- | :------------: |
 | 🎓 **MS** | Data Science | Institute of Management Sciences (IMSciences) | 🟢 In Progress |
-| 🎓 **BS** | Statistics | University of Peshawar | ✅ Completed |
+| 🎓 **BS** | Statistics   | University of Peshawar                        |   ✅ Completed  |
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub & Development
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=Aqib-Hanif&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true"
-height="170"
-alt="Aqib Hanif GitHub Statistics"
-/>
+<a href="https://github.com/aqibhanifai">
+<img src="https://img.shields.io/badge/GitHub-Aqib_Hanif-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqib-Hanif&layout=compact&hide_border=true&theme=transparent&langs_count=8"
-height="170"
-alt="Aqib Hanif Most Used Languages"
-/>
+<a href="https://github.com/aqibhanifai?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore_Projects-0969DA?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<img src="https://img.shields.io/github/followers/aqibhanifai?label=Followers&style=for-the-badge&logo=github">
 
 </div>
 
-> GitHub analytics are generated by an external service, so they may occasionally be temporarily unavailable due to GitHub API or hosting limits.
+<br>
+
+<div align="center">
+
+### Building at the intersection of Data Science, Statistics, AI & Biomedical Research
+
+Explore my repositories for projects involving:
+
+`Data Science` • `Machine Learning` • `Healthcare AI` • `Medical Imaging`
+`Knowledge Graphs` • `Statistics` • `Deep Learning` • `Research`
+
+</div>
 
 ---
 
@@ -308,7 +333,7 @@ alt="Aqib Hanif Most Used Languages"
 </a>
 
 <a href="https://orcid.org/0009-0009-4256-8706">
-<img src="https://img.shields.io/badge/ORCID-Research%20ID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
+<img src="https://img.shields.io/badge/ORCID-Research_ID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
 </a>
 
 <a href="https://www.researchgate.net/profile/Aqib-Hanif">
@@ -325,12 +350,12 @@ alt="Aqib Hanif Most Used Languages"
 
 <div align="center">
 
-| Platform | Profile |
-|:---|:---|
-| 💼 **LinkedIn** | [linkedin.com/in/aqibhanifai](https://www.linkedin.com/in/aqibhanifai/) |
-| 🧬 **ORCID** | [0009-0009-4256-8706](https://orcid.org/0009-0009-4256-8706) |
-| 🔬 **ResearchGate** | [Aqib Hanif](https://www.researchgate.net/profile/Aqib-Hanif) |
-| 🌐 **Portfolio** | [aqibhanifai.github.io/aqib-portfolio](https://aqibhanifai.github.io/aqib-portfolio/) |
+| Platform            | Profile                                                                               |
+| :------------------ | :------------------------------------------------------------------------------------ |
+| 💼 **LinkedIn**     | [linkedin.com/in/aqibhanifai](https://www.linkedin.com/in/aqibhanifai/)               |
+| 🧬 **ORCID**        | [0009-0009-4256-8706](https://orcid.org/0009-0009-4256-8706)                          |
+| 🔬 **ResearchGate** | [Aqib Hanif](https://www.researchgate.net/profile/Aqib-Hanif)                         |
+| 🌐 **Portfolio**    | [aqibhanifai.github.io/aqib-portfolio](https://aqibhanifai.github.io/aqib-portfolio/) |
 
 </div>
 
@@ -338,11 +363,12 @@ alt="Aqib Hanif Most Used Languages"
 
 # 🤝 Open to Collaboration
 
-I am interested in collaborating on projects and research involving:
+I am interested in collaborating on research and data-driven projects involving:
 
 * Data Science
 * Machine Learning
 * Statistical Learning
+* Artificial Intelligence
 * Healthcare AI
 * Medical Imaging
 * Brain Tumor Analysis
@@ -352,7 +378,7 @@ I am interested in collaborating on projects and research involving:
 * Biomedical Knowledge Graphs
 * Bioinformatics
 
-I am particularly interested in **research-oriented collaborations that combine statistical rigor with modern machine-learning methods**.
+I am particularly interested in **research-oriented collaborations that combine statistical rigor, modern machine learning, interpretability, and reproducible experimentation**.
 
 ---
 
@@ -369,14 +395,16 @@ I am particularly interested in **research-oriented collaborations that combine 
 <br>
 
 <a href="https://www.linkedin.com/in/aqibhanifai/">
-<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://aqibhanifai.github.io/aqib-portfolio/">
-<img src="https://img.shields.io/badge/Explore%20My%20Work-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Explore_My_Work-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
+
+### From Data to Evidence. From Models to Trust.
 
 ⭐ **Explore my repositories for Data Science, Machine Learning, Healthcare AI, and research projects.**
 
