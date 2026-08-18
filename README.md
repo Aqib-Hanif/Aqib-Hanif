@@ -1,451 +1,384 @@
-````markdown
-<!-- =========================================================
-     AQIB HANIF — GITHUB PROFILE README
-     Data Scientist • AI Researcher • Statistical ML
-========================================================== -->
-
+```markdown
 <div align="center">
 
-# AQIB HANIF
+# Hi, I'm Aqib Hanif 👋
 
-### `DATA SCIENTIST` · `AI RESEARCHER` · `STATISTICAL ML`
-
-**Turning complex data into reliable, interpretable & actionable intelligence.**
-
-<br>
+### Data Scientist • AI Researcher • Statistics Graduate • MS Data Science @ IMSciences
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=950&lines=Data+Science+%7C+Statistics+%7C+Machine+Learning;Healthcare+AI+%7C+Medical+Imaging+%7C+Radiomics;Explainable+AI+%7C+Trustworthy+Machine+Learning;Biomedical+Knowledge+Graphs+%7C+Bioinformatics;Building+AI+Systems+That+Can+Be+Trusted"
-alt="Aqib Hanif"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Data+Scientist+%7C+AI+Researcher;Statistics+%2B+Machine+Learning+%2B+Data+Science;Medical+Imaging+%7C+Radiomics+%7C+Healthcare+AI;Explainable+AI+%7C+Trustworthy+Machine+Learning;Biomedical+Knowledge+Graphs+%7C+Bioinformatics;Turning+Complex+Data+into+Reliable+Insights"
+alt="Typing SVG"
 />
 
 <br>
 
 <a href="https://www.linkedin.com/in/aqibhanifai/">
-<img src="https://img.shields.io/badge/LINKEDIN-AQIBHANIFAI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Aqib_Hanif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-&nbsp;
+
 <a href="https://orcid.org/0009-0009-4256-8706">
-<img src="https://img.shields.io/badge/ORCID-0009--0009--4256--8706-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+<img src="https://img.shields.io/badge/ORCID-0009--0009--4256--8706-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
 </a>
-&nbsp;
+
 <a href="https://www.researchgate.net/profile/Aqib-Hanif">
-<img src="https://img.shields.io/badge/RESEARCHGATE-PROFILE-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+<img src="https://img.shields.io/badge/ResearchGate-Research_Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white">
 </a>
-&nbsp;
+
 <a href="https://aqibhanifai.github.io/aqib-portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-VIEW_PROJECTS-181717?style=for-the-badge&logo=githubpages&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-181717?style=for-the-badge&logo=githubpages&logoColor=white">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Aqib-Hanif&style=flat-square&color=blue&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Aqib-Hanif&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 01 · WHO I AM
+# 👨‍💻 About Me
 
-```python
-aqib = {
-    "role": "Data Scientist & AI Researcher",
-    "education": {
-        "current": "MS Data Science — IMSciences",
-        "foundation": "BS Statistics — University of Peshawar"
-    },
-    "focus": [
-        "Statistical Machine Learning",
-        "Healthcare AI",
-        "Medical Imaging",
-        "Explainable & Trustworthy AI",
-        "Biomedical Knowledge Graphs"
-    ],
-    "mission": "Build AI that is accurate, interpretable, reproducible and useful."
-}
-````
+I am a **Data Scientist and AI Researcher** currently pursuing an **MS in Data Science at the Institute of Management Sciences (IMSciences), Pakistan**, with an academic foundation in **Statistics**.
 
-I am a **Data Scientist and AI Researcher** with a foundation in **Statistics** and graduate training in **Data Science**.
+My interests lie at the intersection of **data science, statistical learning, machine learning, artificial intelligence, and biomedical research**. I am particularly interested in developing computational systems that are not only accurate, but also **reliable, interpretable, statistically defensible, and reproducible**.
 
-My work combines **statistical reasoning, machine learning, deep learning and data-centric experimentation** to solve real-world problems — particularly in **healthcare and biomedical AI**.
+My current work focuses strongly on **healthcare and biomedical AI**, including medical imaging, radiomics, explainable artificial intelligence, uncertainty-aware machine learning, and biomedical knowledge graphs.
 
-I am especially interested in research where **predictive performance alone is not enough**. My focus is on models that can also demonstrate **reliability, interpretability, uncertainty awareness and reproducibility**.
+> **My research philosophy:** Strong AI should not only make predictions — it should provide evidence that those predictions can be trusted.
 
 ---
 
-## 02 · CORE EXPERTISE
+# 🔬 Research Interests
 
-<div align="center">
+<p align="center">
 
-|    📊 DATA SCIENCE   | 🤖 MACHINE LEARNING | 🧠 HEALTHCARE AI |       🔬 RESEARCH      |
-| :------------------: | :-----------------: | :--------------: | :--------------------: |
-| Statistical Analysis |    Classification   |  Medical Imaging |   Experimental Design  |
-| Exploratory Analysis |      Regression     |     Brain MRI    |     Reproducibility    |
-|  Feature Engineering |  Ensemble Learning  |     Radiomics    |  Reliability Analysis  |
-| Predictive Analytics |    Deep Learning    |  Biomedical Data | Statistical Validation |
-|     Visualization    |   Computer Vision   | Knowledge Graphs |   Scientific Writing   |
+<img src="https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge&logo=databricks&logoColor=00C2FF">
+<img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">
+<img src="https://img.shields.io/badge/Deep%20Learning-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
+<img src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8">
 
-</div>
+<br>
+
+<img src="https://img.shields.io/badge/Medical%20Imaging-0D1117?style=for-the-badge">
+<img src="https://img.shields.io/badge/Radiomics-0D1117?style=for-the-badge">
+<img src="https://img.shields.io/badge/Explainable%20AI-0D1117?style=for-the-badge">
+<img src="https://img.shields.io/badge/Trustworthy%20AI-0D1117?style=for-the-badge">
+
+<br>
+
+<img src="https://img.shields.io/badge/Statistical%20Learning-0D1117?style=for-the-badge">
+<img src="https://img.shields.io/badge/Bioinformatics-0D1117?style=for-the-badge">
+<img src="https://img.shields.io/badge/Knowledge%20Graphs-0D1117?style=for-the-badge">
+<img src="https://img.shields.io/badge/Healthcare%20AI-0D1117?style=for-the-badge">
+
+</p>
 
 ---
 
-## 03 · TECH STACK
+# 🧠 Current Research
 
-### Languages · Databases · Development
+### 🧠 Brain Tumor MRI Analysis
 
-<div align="center">
+Developing **statistically reliable and explainable machine-learning frameworks** for brain tumor analysis using MRI-derived imaging features, radiomics, and deep learning.
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,vscode&theme=dark" />
+**Research focus:**
 
-</div>
-
-<br>
-
-### Data Science & Machine Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-1F6FEB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-### Deep Learning · Computer Vision
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/CNNs-Deep_Learning-EE4C2C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Vision-AI-0078D4?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-### Analytics · Visualization
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-
-</div>
-
-<br>
-
-### Medical & Biomedical AI
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SimpleITK-MEDICAL_IMAGING-007ACC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyRadiomics-RADIOMICS-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Knowledge_Graphs-BIOMEDICAL_AI-7B61FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XAI-EXPLAINABLE_AI-E34F26?style=for-the-badge"/>
-
-</div>
+`MRI Analysis` • `Radiomics` • `Feature Stability` • `Deep Learning` • `Explainability` • `Model Reliability`
 
 ---
 
-## 04 · RESEARCH DNA
+### 🕸️ Biomedical Knowledge Graphs
 
-<div align="center">
+Investigating biomedical knowledge representation by connecting heterogeneous clinical and biological information such as **diseases, genes, drugs, biomarkers, phenotypes, and scientific evidence**.
 
-### `STATISTICS` → `DATA` → `MODELS` → `EVIDENCE` → `TRUST`
+**Research focus:**
 
-</div>
+`Knowledge Graphs` • `Disease–Gene Relationships` • `Biomedical Data Integration` • `Graph Learning` • `Evidence-Aware AI`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🧠 Medical Imaging Intelligence
+### 🛡️ Trustworthy Healthcare AI
 
-Building data-driven frameworks for extracting meaningful information from biomedical imaging data.
+Studying methods for building healthcare AI systems that extend beyond predictive accuracy by incorporating rigorous reliability assessment.
 
-**Current themes**
+**Research focus:**
 
-`Brain MRI`
-`Tumor Analysis`
-`Radiomics`
-`Computer Vision`
-`Deep Learning`
+`Uncertainty Quantification` • `Calibration` • `Explainable AI` • `Robustness` • `Feature Stability` • `Reproducibility`
 
-</td>
-
-<td width="50%" valign="top">
-
-### 🛡️ Trustworthy Artificial Intelligence
-
-Moving beyond accuracy toward AI systems that can be scientifically and practically trusted.
-
-**Current themes**
-
-`Explainability`
-`Calibration`
-`Uncertainty`
-`Robustness`
-`Reproducibility`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🕸️ Biomedical Knowledge Intelligence
-
-Structuring heterogeneous biomedical information into machine-readable relational systems.
-
-**Current themes**
-
-`Knowledge Graphs`
-`Disease–Gene Relations`
-`Biomarkers`
-`Drug Knowledge`
-`Clinical Evidence`
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 📊 Statistical Data Science
 
-Using statistical thinking as the foundation for reliable machine-learning experimentation.
+Applying statistical foundations to machine-learning research and real-world analytical problems.
 
-**Current themes**
+**Research focus:**
 
-`Statistical Learning`
-`Sampling`
-`Model Validation`
-`Feature Stability`
-`Experimental Analysis`
-
-</td>
-</tr>
-</table>
+`Statistical Learning` • `Sampling` • `Model Validation` • `Predictive Analytics` • `Experimental Evaluation`
 
 ---
 
-## 05 · SELECTED WORK
+# 🛠️ Technical Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Programming & Databases
 
-### 🧠 Brain Tumor MRI Intelligence
+<p align="center">
 
-Machine-learning and deep-learning workflows for MRI-based brain tumor analysis.
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,vscode&theme=dark" />
 
-**Focus:**
-Radiomics · Feature Engineering · Explainability · Reliability
+</p>
 
-</td>
+<p align="center">
 
-<td width="50%" valign="top">
+`Python` • `SQL` • `MySQL` • `PostgreSQL` • `Git` • `GitHub`
 
-### 🕸️ Brain Tumor Knowledge Graph
-
-Biomedical graph intelligence connecting diseases, genes, drugs, biomarkers and clinical evidence.
-
-**Focus:**
-Knowledge Graphs · Biomedical AI · Evidence Integration
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ EEG Intelligence
-
-Deep-learning applications for neurological signal analysis.
-
-**Projects:**
-EEG Brain Tumor Detection
-EEG Seizure Prediction
-
-</td>
-
-<td width="50%" valign="top">
-
-### ✈️ Predictive Maintenance
-
-Machine-learning analysis of NASA C-MAPSS turbofan engine degradation data.
-
-**Focus:**
-Predictive Analytics · Remaining Useful Life · Reliability
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
-## 06 · CURRENT RESEARCH DIRECTION
+## Data Science & Machine Learning
 
-```text
-Reliable Healthcare AI
-│
-├── Medical Imaging
-│   ├── MRI Analysis
-│   ├── Radiomics
-│   └── Deep Learning
-│
-├── Statistical Reliability
-│   ├── Feature Stability
-│   ├── Model Validation
-│   └── Reproducibility
-│
-├── Trustworthy AI
-│   ├── Explainability
-│   ├── Uncertainty
-│   └── Calibration
-│
-└── Biomedical Intelligence
-    ├── Knowledge Graphs
-    ├── Bioinformatics
-    └── Evidence Integration
-```
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/XGBoost-1F6FEB?style=for-the-badge">
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge">
+
+</p>
+
+<p align="center">
+
+`Exploratory Data Analysis` • `Feature Engineering` • `Classification`  
+`Regression` • `Predictive Modelling` • `Model Evaluation`
+
+</p>
 
 ---
 
-## 07 · EDUCATION
+## Deep Learning & Artificial Intelligence
 
-<table>
-<tr>
-<td align="center" width="50%">
+<p align="center">
 
-### 🎓 MS DATA SCIENCE
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark">
 
-**Institute of Management Sciences**
-IMSciences · Pakistan
+<br><br>
 
-`IN PROGRESS`
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+<img src="https://img.shields.io/badge/Computer%20Vision-0078D4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Explainable%20AI-E34F26?style=for-the-badge">
 
-</td>
-
-<td align="center" width="50%">
-
-### 🎓 BS STATISTICS
-
-**University of Peshawar**
-Pakistan
-
-`COMPLETED`
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
-## 08 · GITHUB // BUILD LOG
+## Data Visualization & Research Computing
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
+
+</p>
+
+---
+
+## Medical Imaging & Biomedical AI
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/SimpleITK-Medical%20Imaging-007ACC?style=for-the-badge">
+<img src="https://img.shields.io/badge/PyRadiomics-Radiomics-2E8B57?style=for-the-badge">
+<img src="https://img.shields.io/badge/Knowledge%20Graphs-Biomedical%20AI-7B61FF?style=for-the-badge">
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 Medical AI & Healthcare Data Science
+
+### Brain Tumor Knowledge Graph
+Biomedical knowledge representation framework connecting brain tumor diseases, genes, drugs, biomarkers, and clinical evidence.
+
+`Biomedical AI` `Knowledge Graphs` `Graph Analytics`
+
+---
+
+### NeuroKG Explorer
+Knowledge-driven framework for exploring neurological biomedical relationships and structured scientific evidence.
+
+`Knowledge Graphs` `Biomedical Data` `Data Exploration`
+
+---
+
+### Brain Tumor MRI Analysis
+Machine-learning and deep-learning workflows for MRI-based brain tumor analysis with emphasis on radiomics and trustworthy model evaluation.
+
+`MRI` `Radiomics` `Machine Learning` `XAI`
+
+---
+
+### EEG Brain Tumor Detection
+
+Hybrid deep-learning approaches for neurological signal analysis and brain tumor-related classification.
+
+`EEG` `CNN` `BiLSTM` `Deep Learning`
+
+---
+
+### EEG Seizure Prediction
+
+Data-driven modelling of EEG signals for seizure-related predictive analysis.
+
+`Signal Processing` `Machine Learning` `Deep Learning`
+
+---
+
+## 📊 Data Science & Machine Learning
+
+### ✈️ Aerospace Predictive Maintenance — NASA C-MAPSS
+
+Machine-learning analysis of turbofan engine degradation data for predictive maintenance and reliability modelling.
+
+`Predictive Maintenance` `Machine Learning` `Reliability` `NASA C-MAPSS`
+
+---
+
+### 📈 Statistical Learning Projects
+
+Application of statistical modelling and machine-learning methods to real-world analytical problems.
+
+`Statistics` `Machine Learning` `Predictive Analytics`
+
+---
+
+### 🔍 Data Analytics & Visualization
+
+Exploratory data analysis, preprocessing, statistical investigation, visualization, and insight generation from structured datasets.
+
+`EDA` `Data Visualization` `Statistics` `Python`
+
+---
+
+# 🎓 Education
+
+| Degree | Discipline | Institution | Status |
+|:---:|:---|:---|:---:|
+| 🎓 **MS** | Data Science | Institute of Management Sciences (IMSciences) | 🟢 In Progress |
+| 🎓 **BS** | Statistics | University of Peshawar | ✅ Completed |
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Aqib-Hanif&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=C9D1D9&include_all_commits=true"
+src="https://github-readme-stats.vercel.app/api?username=Aqib-Hanif&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true"
 height="170"
+alt="Aqib Hanif GitHub Statistics"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqib-Hanif&layout=compact&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9&langs_count=8"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqib-Hanif&layout=compact&hide_border=true&theme=transparent&langs_count=8"
 height="170"
+alt="Aqib Hanif Most Used Languages"
 />
 
 </div>
 
-> The analytics section intentionally uses only two cards. I avoid unnecessary streak/contribution widgets because third-party GitHub API services can fail or become rate-limited.
+> GitHub analytics are generated by an external service, so they may occasionally be temporarily unavailable due to GitHub API or hosting limits.
 
 ---
 
-## 09 · PROFESSIONAL & ACADEMIC NETWORK
+# 🌐 Academic & Professional Profiles
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aqibhanifai/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.researchgate.net/profile/Aqib-Hanif">
-<img src="https://img.shields.io/badge/ResearchGate-Follow_Research-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://orcid.org/0009-0009-4256-8706">
-<img src="https://img.shields.io/badge/ORCID-Research_ID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+<img src="https://img.shields.io/badge/ORCID-Research%20ID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
+</a>
+
+<a href="https://www.researchgate.net/profile/Aqib-Hanif">
+<img src="https://img.shields.io/badge/ResearchGate-Research-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white">
 </a>
 
 <a href="https://aqibhanifai.github.io/aqib-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Explore_Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Projects-181717?style=for-the-badge&logo=githubpages&logoColor=white">
 </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| Platform | Profile |
+|:---|:---|
+| 💼 **LinkedIn** | [linkedin.com/in/aqibhanifai](https://www.linkedin.com/in/aqibhanifai/) |
+| 🧬 **ORCID** | [0009-0009-4256-8706](https://orcid.org/0009-0009-4256-8706) |
+| 🔬 **ResearchGate** | [Aqib Hanif](https://www.researchgate.net/profile/Aqib-Hanif) |
+| 🌐 **Portfolio** | [aqibhanifai.github.io/aqib-portfolio](https://aqibhanifai.github.io/aqib-portfolio/) |
 
 </div>
 
 ---
 
-## 10 · OPEN TO
+# 🤝 Open to Collaboration
+
+I am interested in collaborating on projects and research involving:
+
+* Data Science
+* Machine Learning
+* Statistical Learning
+* Healthcare AI
+* Medical Imaging
+* Brain Tumor Analysis
+* Radiomics
+* Explainable Artificial Intelligence
+* Trustworthy Machine Learning
+* Biomedical Knowledge Graphs
+* Bioinformatics
+
+I am particularly interested in **research-oriented collaborations that combine statistical rigor with modern machine-learning methods**.
+
+---
 
 <div align="center">
 
-`DATA SCIENCE COLLABORATION`
+## Advancing Data Science Through Statistical Rigor, Intelligent Models & Trustworthy AI
 
-`AI / ML RESEARCH`
-
-`HEALTHCARE AI`
-
-`MEDICAL IMAGING`
-
-`BIOMEDICAL DATA SCIENCE`
-
-`KNOWLEDGE GRAPH RESEARCH`
-
-`RESEARCH COLLABORATION`
-
-</div>
+### `DATA → INSIGHT → INTELLIGENCE → EVIDENCE → TRUST`
 
 <br>
 
-<div align="center">
-
-### BEYOND ACCURACY.
-
-### TOWARD AI THAT CAN BE TRUSTED.
-
-<br>
-
-**Data Science × Statistics × Artificial Intelligence × Healthcare**
+**Data Science • Statistics • Machine Learning • Artificial Intelligence • Healthcare Research**
 
 <br>
 
 <a href="https://www.linkedin.com/in/aqibhanifai/">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
- 
-
 <a href="https://aqibhanifai.github.io/aqib-portfolio/">
-<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-PORTFOLIO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore%20My%20Work-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
 
-<sub>
-Research • Build • Validate • Explain • Reproduce
-</sub>
+⭐ **Explore my repositories for Data Science, Machine Learning, Healthcare AI, and research projects.**
 
 </div>
 ```
